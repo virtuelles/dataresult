@@ -1122,27 +1122,3 @@ count after stream: 1 day version
 紀錄結束時不喜歡數 Dislike Count:432
 紀錄結束時留言數 Comment Count:194
 ```
-
-```
-
-```
-
-```
-
-```
-
-```
-
-```
-
-```
-
-```
-
-```
-
-```
-
-```
-
-```
